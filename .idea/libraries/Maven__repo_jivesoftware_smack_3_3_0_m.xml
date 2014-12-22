@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: repo.jivesoftware:smack:3.3.0_m">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/repo/jivesoftware/smack/3.3.0_m/smack-3.3.0_m.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/repo/jivesoftware/smack/3.3.0_m/smack-3.3.0_m-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/repo/jivesoftware/smack/3.3.0_m/smack-3.3.0_m-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -68,6 +68,11 @@
             <artifactId>commons-httpclient</artifactId>
             <version>3.0.1</version>
         </dependency>
+        <dependency>
+            <groupId>repo.jivesoftware</groupId>
+            <artifactId>smack</artifactId>
+            <version>3.3.0_m</version>
+        </dependency>
 
     </dependencies>
 
