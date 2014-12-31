@@ -20,8 +20,10 @@ public class SmackUtil {
         try {
             XMPPConnection connection = new XMPPConnection(configuration);
             connection.connect();
+            System.out.println("AAAAAAAAAAAAAA"+connection.isConnected());
             connection.login("y1", "y1");//登陆
             System.out.println(connection.getUser());
+            System.out.println("BBBBBBBBBBBBBB"+connection.isConnected());
             ChatManager chatManager = connection.getChatManager();
 
             Chat newChat = chatManager.createChat("test3@pc20141212", new MessageListener() {
